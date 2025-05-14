@@ -24,7 +24,15 @@ Candidate Search allows you to search potential GitHub users and save their prof
 
 ## Deployment 
 
+## Team Acknowledgements
+
+Special thanks to Luis, my tutor for all the help in navigating this project!
+
 ## License 
 
 MIT License
 
+### Tools & Workflow
+- Communication: Slack, Zoom
+- Project Management: Trello, GitHub Projects
+- Workflow: Feature branching with pull requests, weekly sprint reviews.
