@@ -22,10 +22,9 @@ Candidate Search allows you to search potential GitHub users and save their prof
    cd candidate-search
    npm i
 
-   ## Deployment 
+## Deployment 
 
-   ## License 
+## License 
 
-   MIT License
+MIT License
 
-   
