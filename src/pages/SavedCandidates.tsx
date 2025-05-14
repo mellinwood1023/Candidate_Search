@@ -1,5 +1,5 @@
 
-const clearUserInfo = (key: string = 'userInfo') => {
+const clearUserInfo = () => {
   try {
   localStorage.removeItem('userInfo');
   console.log('User info cleared');
