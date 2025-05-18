@@ -28,6 +28,10 @@ https://candidate-search-mmnl.onrender.com/
 
 
 
+https://github.com/user-attachments/assets/baf6cf9a-eb20-4714-a920-1cdcde6cee36
+
+
+
 ## Team Acknowledgements
 
 Special thanks to Luis, my tutor for all the help in navigating this project!
